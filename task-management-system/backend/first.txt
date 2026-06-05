@@ -1,0 +1,7 @@
+mvc architecture=model(Schema) view(Views) controller(Logic,Queries)
+
+
+SERVER.js
+app.use('/api/tasks',(taskRoute)Routing Path)
+
+cors= cross origin resource sharing //MIDDLEWARE
